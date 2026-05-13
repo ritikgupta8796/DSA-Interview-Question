@@ -1,3 +1,3 @@
 <?php 
-// This file contains only basic questions
+// This file contains only basic questions.
 ?>
