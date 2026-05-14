@@ -69,4 +69,13 @@ for ($i = 1; $i <= $numberPrint; $i++) {
     echo "<br>";
 }
 
+echo "<br><br>";
+$numPrint = 5;
+for($i=1; $i<=$numPrint; $i++){
+    for($j=1; $j<=$i; $j++){
+        echo " ". $j ." ";
+    }
+    echo "<br>";
+}
+
 ?>
