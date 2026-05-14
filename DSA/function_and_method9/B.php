@@ -1,30 +1,20 @@
 <?php
-
 // Syntax - Function Code Demo
-
 class Calculation {
-
     // Function Definition
     function totalSum() {
-
         $num1 = 10;
         $num2 = 5;
-
         // Add two numbers
         $sum = $num1 + $num2;
-
         // Return result
         return $sum;
     }
 }
-
 // Create Object
 $obj = new Calculation();
-
 // Call Function
 echo $obj->totalSum();
-
-
 
 /*
 Program Flow
@@ -38,6 +28,5 @@ Program Flow
 | 6    | Create object   |
 | 7    | Call function   |
 | 8    | Display output  |
-
 */
 ?>
